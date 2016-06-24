@@ -1,1 +1,2 @@
-require "./mountComponents.coffee"
+
+require "./router.coffee"
