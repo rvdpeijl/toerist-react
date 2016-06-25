@@ -21,6 +21,7 @@
     "gulp-livereload": "^3.8.1",
     "gulp-rename": "^1.2.2",
     "gulp-sourcemaps": "^2.0.0-alpha",
+    "gulp-uglify": "^1.5.4",
     "gulp-util": "^3.0.7",
     "less": "^2.7.1",
     "react": "^15.1.0",
@@ -30,6 +31,7 @@
   },
   "dependencies": {
     "bootstrap": "^3.3.6",
-    "jquery": "^3.0.0"
+    "jquery": "^3.0.0",
+    "react-slick": "^0.12.2"
   }
 }

@@ -7,9 +7,8 @@ App = React.createClass
 	render: ->
 		<div>
 			<Navigation/>
-			<div className="container content">
+			<div className="content">
 				{@props.children}
-				<div className="btn btn-primary">Doe iets</div>
 			</div>
 		</div>
 
